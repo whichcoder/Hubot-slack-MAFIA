@@ -1,2 +1,3 @@
 # Mafia-On-Slack
-This code is Hubot script (Coffee script) to proceed with the Mafia game in the slack.
+이 코드는 슬랙에서 마피아 게임을 진행하기 위한 Hubot 스크립트입니다. 본 스크립트는 한글을 기반으로 작동합니다.
+
